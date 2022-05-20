@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# Getting Started 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the same documentation from the official React Documentation with the exception of the `compile:sass` script that I have added. 
+In the /public/sass folder there is a how-to file for the 7-1 achitecture method as well as a video link to BEM naming conventions of classes. These organizational protocols combined are very powerful for organization accross any project, large or small. There is a 'vendors' folder should you want to use Bootstrap of Tailwind for example, though I prefer pure Sass/Css. You do you!
+Other than organizng the Sass 7-1 file system and adding some tutorials, I deleted all of the (usually) superfluous React stuff that comes with the CRA install. Enoy, and Happy Styling 😎
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `compile:sass`
+
+If you run this in a seperate tab in your CLI, it will automatically compile your Scss / sass files into the style.css file which will render into the index.html file of the React App.
 
 ### `npm start`
 
