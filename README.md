@@ -1,4 +1,4 @@
-# Getting Started 
+# Getting Started with (a sassy💅) CRA
 
 This is the same documentation from the official React Documentation with the exception of the `compile:sass` script that I have added. 
 In the /public/sass folder there is a how-to file for the 7-1 achitecture method as well as a video link to BEM naming conventions of classes. These organizational protocols combined are very powerful for organization accross any project, large or small. There is a 'vendors' folder should you want to use Bootstrap of Tailwind for example, though I prefer pure Sass/Css. You do you!
